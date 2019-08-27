@@ -3,6 +3,6 @@ def first_challenge
      capulet: {patriarch :  {},
       matriarch :  {},
       heroine : {},
-      heroine_friends :   []}
+      heroine_friends : []}
    }
 end
